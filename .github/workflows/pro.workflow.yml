@@ -3,6 +3,7 @@ on:
   push:
     branches:
       - main
+      
 env:
   CI: true
   SSH_PORT: 22
